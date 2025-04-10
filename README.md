@@ -13,7 +13,7 @@ O objetivo do projeto é explorar, processar e visualizar dados oceanográficos 
 ## Tecnologias utilizadas
 
 - Python (Jupyter Notebook)
-- Bibliotecas: xarray, matplotlib, cartopy, pandas, numpy, netCDF4, entre outras
+- Bibliotecas: matplotlib, cartopy, numpy, netCDF4
 - Dados de reanálise do CMEMS (Copernicus Marine Service)
 
 ## Possíveis aplicações
