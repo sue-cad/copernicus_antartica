@@ -1,21 +1,18 @@
 # Projeto Copernicus - Antártica
 
-Este repositório contém o notebook `projeto_copernicus_final.ipynb`, desenvolvido no contexto de um estudo de reanálise oceânica na região da Antártica, utilizando dados provenientes do programa Copernicus Marine Environment Monitoring Service (CMEMS).
+Este repositório contém dois notebooks, desenvolvidos no contexto de um estudo de reanálise oceânica na região da Antártica, utilizando dados provenientes do programa Copernicus Marine Environment Monitoring Service (CMEMS).
 
 ## Objetivo
 
-O objetivo do projeto é explorar, processar e visualizar dados oceanográficos da região do Oceano Austral, com foco em variáveis como temperatura da superfície do mar (SST), salinidade, correntes e gelo marinho, buscando compreender padrões sazonais e tendências climáticas.
+O objetivo do projeto é explorar, processar e visualizar dados oceanográficos da região do Oceano Austral, com foco em variáveis como temperatura da superfície do mar (SST), salinidade e gelo marinho, nos meses de Agosto de 2020 e Janeiro de 2021.
 
 ## Estrutura do repositório
 
-- `projeto_copernicus_final.ipynb`: Notebook com todo o código e visualizações geradas ao longo da análise.
+- `projeto_copernicus_ago.ipynb`: Notebook com todo o código e visualizações geradas ao longo da análise para os dados de Agosto de 2020.
+- `projeto_copernicus_jan.ipynb`: Notebook com todo o código e visualizações geradas ao longo da análise para os dados de Janeiro de 2021.
 
 ## Tecnologias utilizadas
 
 - Python (Jupyter Notebook)
 - Bibliotecas: matplotlib, cartopy, numpy, netCDF4
 - Dados de reanálise do CMEMS (Copernicus Marine Service)
-
-## Possíveis aplicações
-
-Este projeto pode servir de base para estudos acadêmicos, treinamentos em análise de dados oceânicos, monitoramento ambiental e avaliação de impactos das mudanças climáticas na região Antártica.
