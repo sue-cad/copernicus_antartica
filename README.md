@@ -8,8 +8,8 @@ O objetivo do projeto é explorar, processar e visualizar dados oceanográficos 
 
 ## Estrutura do repositório
 
-- `projeto_copernicus_ago.ipynb`: Notebook com todo o código e visualizações geradas ao longo da análise para os dados de Agosto de 2020.
-- `projeto_copernicus_jan.ipynb`: Notebook com todo o código e visualizações geradas ao longo da análise para os dados de Janeiro de 2021.
+- `projeto_copernicus_agosto.ipynb`: Notebook com todo o código e visualizações geradas ao longo da análise para os dados de Agosto de 2020.
+- `projeto_copernicus_janeiro.ipynb`: Notebook com todo o código e visualizações geradas ao longo da análise para os dados de Janeiro de 2021.
 
 ## Tecnologias utilizadas
 
